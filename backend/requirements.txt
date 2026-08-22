@@ -1,5 +1,4 @@
 asgiref==3.12.1
--e file:///C:/Users/Rasul/Desktop/CODES/REACT/react-first-project/backend
 django==6.1
 django-cors-headers==4.9.0
 djangorestframework==3.18.0
